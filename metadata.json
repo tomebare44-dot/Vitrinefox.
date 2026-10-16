@@ -1,0 +1,6 @@
+{
+  "name": "Workspace Criativo",
+  "description": "Ambiente interativo pronto para transformar sua ideia em um aplicativo completo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
